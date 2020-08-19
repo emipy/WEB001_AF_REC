@@ -1,0 +1,21 @@
+*Criei uma pasta e fiz o Git Bash para iniciar o prompt*
+
+1 - git clone http//github.com/emipy/WEB001_AF_REC.git
+
+2 - cd WEB001_AF_REC
+
+*Criei 3 arquivos de texto e modifiquei de acordo com o solicitado para prova de recuperação*
+
+3 - git add Nome.txt
+
+4 - git add Lembrete.txt
+
+5 - git add Comandos.txt
+
+*Como eu quis editar o arquivo Comandos.txt na maquina e não diretamente no site do repositório, modifiquei a ordem que enviei ele para não ficar repetitivo porém o objetivo continua sendo o mesmo.*
+
+6 - git commit -m "Envio dos arquivos para prova de recuperação"
+
+7 - git push origin master
+
+*Feito isso marquei o repositório como "read-only" para enviar o link*
